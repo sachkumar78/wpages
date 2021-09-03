@@ -1,0 +1,70 @@
+.navbar navbar-warning{
+	padding: 40px 50px;
+}
+.navbar-header{
+	padding: 0 40px;
+	margin-left: 20px;
+}
+.container-fluid .tabs{
+	font-size: 20px;
+}
+.navbar-brand{
+	padding: 0 10px;
+	font-size: 15px;
+	
+}
+
+
+.navbar-brand .header{
+	
+	
+}
+.container-fluid{
+	padding: 20px;
+}
+
+
+.nav  {
+	font-size: 18px;
+	
+}
+.nav navbar-nav {
+	font-size: 15px;
+}
+.text{
+	text-align: justify;
+	line-height: 30px;
+	font-size: 18px;	
+	padding: 0 2%;
+}
+
+img {
+	float: left;
+	width: 30%;
+	height: auto%;
+	margin: 40px 38px 0 0;
+	text-align: left;
+	justify-content: left;
+	align-items: left;
+	display: flex;
+}
+
+.tet {
+	text-align: center;
+}
+
+hr {
+	width: 50%;
+	margin: 0 20px 0 0;
+	border-width: 2px;
+	border: 3px solid tomato;
+	border-bottom: 3px solid orange;
+	border-style: solid;
+}
+.col {
+	float: none;
+}
+
+p {
+	font-size: 18px;
+}
